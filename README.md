@@ -3,7 +3,7 @@
 I like competitively programming and creating projects.
 
 DMOJ: https://dmoj.ca/user/williamwu277 \
-Codeforces: https://codeforces.com/profile/cawww
+Codeforces: https://codeforces.com/profile/cawwwie
 
 <!--
 **Williamwu277/Williamwu277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
